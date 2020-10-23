@@ -1,0 +1,13 @@
+${PODS_ROOT}/Target Support Files/Pods-HairDress/Pods-HairDress-resources.sh
+${PODS_ROOT}/AliAuthSDK/AlibabaAuthSDK.framework/AlibabaAuthSDK.bundle
+${PODS_ROOT}/AliLinkPartnerSDK/AlibcLinkPartnerSDK.framework/SmartLink.bundle
+${PODS_ROOT}/AlibcTradeSDK/AlibcTradeBiz.framework/NBResource.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/../frameworks/QYSDK/Resources/QYCustomResource.bundle
+${PODS_ROOT}/../frameworks/QYSDK/Resources/QYResource.bundle
+${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle
+${PODS_ROOT}/UMCShare/UMShare/UMSocialUI/UMSocialSDKResources.bundle
+${PODS_ROOT}/WindVane/WindVaneBasic.framework/Resources/WindVaneBasic.bundle
+${PODS_ROOT}/WindVane/WindVaneBasic.framework/Resources/NebulaWK.bundle
+${PODS_ROOT}/WindVane/WindVaneCore.framework/WindVaneBasic.bundle
+${PODS_ROOT}/WindVane/WindVaneCore.framework/NebulaWK.bundle

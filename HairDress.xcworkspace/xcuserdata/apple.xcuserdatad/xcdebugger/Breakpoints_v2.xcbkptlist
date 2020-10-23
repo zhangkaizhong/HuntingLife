@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1BC73A5-0E45-44A6-B453-84E5993B942A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "433A0C0B-E0CD-4325-ACFB-6C8A53283F72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HairDress/Main/Personal/Controllers/&#x95e8;&#x5e97;&#x6ce8;&#x518c;/HDEditShopInfoViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "-editShopRequest"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "433A0C0B-E0CD-4325-ACFB-6C8A53283F72 - ba06f5cf6fdb985e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HDEditShopInfoViewController editShopRequest]"
+                  moduleName = "&#x7406;&#x53d1;&#x9884;&#x7ea6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/HairDress/HairDress/Main/Personal/Controllers/%E9%97%A8%E5%BA%97%E6%B3%A8%E5%86%8C/HDEditShopInfoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "2544">
+               </Location>
+               <Location
+                  uuid = "433A0C0B-E0CD-4325-ACFB-6C8A53283F72 - ed1eadd9903718cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__47-[HDEditShopInfoViewController editShopRequest]_block_invoke"
+                  moduleName = "&#x7406;&#x53d1;&#x9884;&#x7ea6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/HairDress/HairDress/Main/Personal/Controllers/%E9%97%A8%E5%BA%97%E6%B3%A8%E5%86%8C/HDEditShopInfoViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFC015D5-64C9-458B-A0F6-93EC647C6CB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HairDress/Main/HairDress/ViewControllers/HDCancelCutQueneViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "-cancelOrderRequest"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6D95307-6CEA-4831-9468-F5A65E12CEE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HairDress/Main/Personal/Controllers/&#x9884;&#x7ea6;&#x5904;&#x7406;/HDMyOrdersSubViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-begainServiceRequest:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A85D8B0-85CF-412D-A098-506396547DFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HairDress/Main/Personal/Controllers/&#x9884;&#x7ea6;&#x5904;&#x7406;/HDMyOrdersSubViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-finishServiceRequest:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A85D8B0-85CF-412D-A098-506396547DFF - 29c61b5951c694dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__52-[HDMyOrdersSubViewController begainServiceRequest:]_block_invoke"
+                  moduleName = "&#x7406;&#x53d1;&#x9884;&#x7ea6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/HairDress/HairDress/Main/Personal/Controllers/%E9%A2%84%E7%BA%A6%E5%A4%84%E7%90%86/HDMyOrdersSubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "1A85D8B0-85CF-412D-A098-506396547DFF - 401379b1337e281"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__52-[HDMyOrdersSubViewController begainServiceRequest:]_block_invoke.127"
+                  moduleName = "&#x7406;&#x53d1;&#x9884;&#x7ea6;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/HairDress/HairDress/Main/Personal/Controllers/%E9%A2%84%E7%BA%A6%E5%A4%84%E7%90%86/HDMyOrdersSubViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B59CF2-49A5-476D-955A-2D9082B70C20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HairDress/Main/HairDress/ViewControllers/HDCheckCutQueneViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-requestQueueProcess"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D50975AD-0885-44D5-93BB-CF7AC95E0510"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HairDress/Main/Task/Controllers/HDTaskCompletingViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "-getTaskDetailScrollData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

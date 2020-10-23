@@ -1,0 +1,145 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - AliAuthSDK (1.1.0.41-bc)
+  - AlibcTradeSDK (4.0.1.6)
+  - AliLinkPartnerSDK (4.0.0.24)
+  - BCUserTrack (5.2.0.16-appkeys):
+    - UTDID
+  - IQKeyboardManager (6.5.5)
+  - Masonry (1.1.0)
+  - MJExtension (3.2.1)
+  - MJRefresh (3.4.3)
+  - mtopSDK (3.0.0.3-BC)
+  - NIMSDK (7.2.5)
+  - pop (1.0.12)
+  - QYSDK (5.10.0)
+  - Reachability (3.2)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+  - securityGuard (5.4.191)
+  - SVProgressHUD (2.2.5)
+  - UMCCommon (2.1.4)
+  - UMCShare/Core (6.9.8):
+    - UMCCommon
+  - UMCShare/Social/QQ (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedQQ (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+  - UTDID (1.1.0.16)
+  - WindVane (8.5.0.46-bc11):
+    - WindVane/Basic (= 8.5.0.46-bc11)
+    - WindVane/Core (= 8.5.0.46-bc11)
+    - WindVane/WindVane (= 8.5.0.46-bc11)
+  - WindVane/Basic (8.5.0.46-bc11)
+  - WindVane/Core (8.5.0.46-bc11)
+  - WindVane/WindVane (8.5.0.46-bc11)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AliAuthSDK (= 1.1.0.41-bc)
+  - AlibcTradeSDK (= 4.0.1.6)
+  - AliLinkPartnerSDK (= 4.0.0.24)
+  - BCUserTrack (= 5.2.0.16-appkeys)
+  - IQKeyboardManager
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - mtopSDK (= 3.0.0.3-BC)
+  - NIMSDK (from `./frameworks/NIMSDK`)
+  - pop
+  - QYSDK (from `./frameworks/QYSDK`)
+  - Reachability
+  - SDCycleScrollView
+  - SDWebImage
+  - securityGuard (= 5.4.191)
+  - SVProgressHUD
+  - UMCCommon
+  - UMCShare/Social/QQ
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+  - UTDID (= 1.1.0.16)
+  - WindVane (= 8.5.0.46-bc11)
+
+SPEC REPOS:
+  http://repo.baichuan-ios.taobao.com/baichuanSDK/AliBCSpecs.git:
+    - AliAuthSDK
+    - AlibcTradeSDK
+    - AliLinkPartnerSDK
+    - BCUserTrack
+    - mtopSDK
+    - securityGuard
+    - UTDID
+    - WindVane
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - IQKeyboardManager
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - pop
+    - Reachability
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - UMCCommon
+    - UMCShare
+
+EXTERNAL SOURCES:
+  NIMSDK:
+    :path: "./frameworks/NIMSDK"
+  QYSDK:
+    :path: "./frameworks/QYSDK"
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  AliAuthSDK: 7018e8f3c8be3382e60f69d3b517c7de34c351e0
+  AlibcTradeSDK: 9a3e7af6cd648dd1f85684e82694c213fe48dad2
+  AliLinkPartnerSDK: c5778cdfdcee7bfe342238d39a77766184d36a46
+  BCUserTrack: ea53788070a12046c5b40fb426293f3b7a8a0c9d
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  mtopSDK: d6fdf81730342a69be920b576541c7bb81a683d5
+  NIMSDK: c90cf4817219a505230dab92c31fd9d1c697684a
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  QYSDK: 209ccef19b974dad5865ef1c8f1d38afd997c08a
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  securityGuard: 9c04c44a3b663f36e15064042abfc107fa07133c
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  UMCCommon: b0703b0053323f598e01670ea702b8eb1e66e611
+  UMCShare: a250203b34a56cde25cc4c28335449b542f0255d
+  UTDID: c28855683c5ea2e77e597cb14609328f7d470d6e
+  WindVane: 56e096abae757397ccd3accb66a959f3ffcbf949
+
+PODFILE CHECKSUM: 45c1e341e31afd301be93813dd223b504c48d296
+
+COCOAPODS: 1.9.1
